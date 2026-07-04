@@ -21,4 +21,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
