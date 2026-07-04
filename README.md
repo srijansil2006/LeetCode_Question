@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0001-two-sum) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0001-two-sum) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 ## Matrix
 |  |
