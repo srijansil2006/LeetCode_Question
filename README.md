@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/srijansil2006/LeetCode-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
 ## Hash Table
 |  |
@@ -55,5 +56,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
+## Sorting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
