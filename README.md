@@ -58,10 +58,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srijansil2006/LeetCode-Question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/srijansil2006/LeetCode-Question/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/0190-reverse-bits) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
