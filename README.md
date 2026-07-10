@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/srijansil2006/LeetCode-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/srijansil2006/LeetCode-Question/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/srijansil2006/LeetCode-Question/tree/master/0014-longest-common-prefix) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/srijansil2006/LeetCode-Question/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/srijansil2006/LeetCode-Question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/srijansil2006/LeetCode-Question/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/srijansil2006/LeetCode-Question/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srijansil2006/LeetCode-Question/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/srijansil2006/LeetCode-Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
