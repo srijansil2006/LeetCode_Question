@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/srijansil2006/LeetCode-Question/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/srijansil2006/LeetCode-Question/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/srijansil2006/LeetCode-Question/tree/master/0016-3sum-closest) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/srijansil2006/LeetCode-Question/tree/master/0016-3sum-closest) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/srijansil2006/LeetCode-Question/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/srijansil2006/LeetCode-Question/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/srijansil2006/LeetCode-Question/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
