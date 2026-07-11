@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/srijansil2006/LeetCode-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/srijansil2006/LeetCode-Question/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/srijansil2006/LeetCode-Question/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0015-3sum) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0015-3sum) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srijansil2006/LeetCode-Question/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/srijansil2006/LeetCode-Question/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
