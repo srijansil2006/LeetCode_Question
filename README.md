@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/srijansil2006/LeetCode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/srijansil2006/LeetCode-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/srijansil2006/LeetCode-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Dynamic Programming
 |  |
 | ------- |
