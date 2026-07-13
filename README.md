@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/srijansil2006/LeetCode-Question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/srijansil2006/LeetCode-Question/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/srijansil2006/LeetCode-Question/tree/master/0089-gray-code) |
+| [0371-sum-of-two-integers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0089-gray-code](https://github.com/srijansil2006/LeetCode-Question/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/0190-reverse-bits) |
+| [0371-sum-of-two-integers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0371-sum-of-two-integers) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
