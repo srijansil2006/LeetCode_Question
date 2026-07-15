@@ -169,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/srijansil2006/LeetCode-Question/tree/master/2793-count-the-number-of-complete-components) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/srijansil2006/LeetCode-Question/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
