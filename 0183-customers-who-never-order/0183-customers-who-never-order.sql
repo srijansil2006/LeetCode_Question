@@ -4,5 +4,5 @@ FROM (
     SELECT c.name, o.customerId
     FROM Customers c
     LEFT JOIN Orders o ON c.id = o.customerId
-) AS merge
-WHERE merge.customerId IS NULL;
+) AS map
+WHERE map.customerId IS NULL;
