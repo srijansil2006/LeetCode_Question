@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/srijansil2006/LeetCode-Question/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/srijansil2006/LeetCode-Question/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srijansil2006/LeetCode-Question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srijansil2006/LeetCode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,4 +195,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
