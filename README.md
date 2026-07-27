@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/srijansil2006/LeetCode-Question/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/srijansil2006/LeetCode-Question/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/srijansil2006/LeetCode-Question/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/srijansil2006/LeetCode-Question/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/srijansil2006/LeetCode-Question/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/srijansil2006/LeetCode-Question/tree/master/0389-find-the-difference) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1256-rank-transform-of-an-array) |
