@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/srijansil2006/LeetCode-Question/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/srijansil2006/LeetCode-Question/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/srijansil2006/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/srijansil2006/LeetCode-Question/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0371-sum-of-two-integers) |
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/srijansil2006/LeetCode-Question/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srijansil2006/LeetCode-Question/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/srijansil2006/LeetCode-Question/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
