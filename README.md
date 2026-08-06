@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0090-subsets-ii) |
+| [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1256-rank-transform-of-an-array) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/srijansil2006/LeetCode-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0018-4sum) |
 | [0389-find-the-difference](https://github.com/srijansil2006/LeetCode-Question/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [1256-rank-transform-of-an-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srijansil2006/LeetCode-Question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srijansil2006/LeetCode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -188,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srijansil2006/LeetCode-Question/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
@@ -233,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
