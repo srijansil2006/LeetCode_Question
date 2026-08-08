@@ -22,7 +22,7 @@ public:
         }
         if(n==0) return 1;
         int st = bed[0]==1 ? 0 : 1;
-        int ed = bed[l-1]==0 ? l-1 : l-2;
+        int ed = bed[l-1]==1 ? l-1 : l-2;
         for(int i=st+1; i<=ed; i++){
             if(n<=0) return 1;
             if(bed[i]==0) cnt++;
@@ -30,9 +30,6 @@ public:
                 n -= (cnt+1)/2-1;
                 cnt = 0;
             }
-        }
-        if(cnt>0){
-            n-=(cnt+1)/2-1;
         }
         return n<=0; 
     }
