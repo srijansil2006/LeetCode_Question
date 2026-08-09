@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
 | [0605-can-place-flowers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0605-can-place-flowers) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/srijansil2006/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/srijansil2006/LeetCode-Question/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
