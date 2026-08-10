@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/0118-pascals-triangle) |
+| [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
 | [0605-can-place-flowers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0605-can-place-flowers) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/srijansil2006/LeetCode-Question/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/0118-pascals-triangle) |
+| [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -257,4 +259,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
