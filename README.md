@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/srijansil2006/LeetCode-Question/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0090-subsets-ii) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srijansil2006/LeetCode-Question/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/srijansil2006/LeetCode-Question/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/srijansil2006/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/srijansil2006/LeetCode-Question/tree/master/0091-decode-ways) |
