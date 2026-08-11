@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
+| [0494-target-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/srijansil2006/LeetCode-Question/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0494-target-sum) |
 | [1130-last-stone-weight-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/1130-last-stone-weight-ii) |
 ## Greedy
 |  |
@@ -272,11 +275,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0322-coin-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0494-target-sum) |
 | [1130-last-stone-weight-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/1130-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0494-target-sum) |
 | [1130-last-stone-weight-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/1130-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
