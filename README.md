@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srijansil2006/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0322-coin-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/srijansil2006/LeetCode-Question/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srijansil2006/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/srijansil2006/LeetCode-Question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srijansil2006/LeetCode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srijansil2006/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/srijansil2006/LeetCode-Question/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
