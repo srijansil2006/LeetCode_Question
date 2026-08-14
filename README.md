@@ -232,22 +232,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/srijansil2006/LeetCode-Question/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0685-redundant-connection-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/srijansil2006/LeetCode-Question/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/srijansil2006/LeetCode-Question/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0685-redundant-connection-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/srijansil2006/LeetCode-Question/tree/master/2793-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/srijansil2006/LeetCode-Question/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0685-redundant-connection-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/srijansil2006/LeetCode-Question/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/srijansil2006/LeetCode-Question/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0685-redundant-connection-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/srijansil2006/LeetCode-Question/tree/master/2793-count-the-number-of-complete-components) |
 ## Database
 |  |
