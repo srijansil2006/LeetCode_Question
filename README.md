@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/0118-pascals-triangle) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srijansil2006/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0322-coin-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/srijansil2006/LeetCode-Question/tree/master/0377-combination-sum-iv) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/srijansil2006/LeetCode-Question/tree/master/0035-search-insert-position) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srijansil2006/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
