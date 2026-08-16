@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/srijansil2006/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/srijansil2006/LeetCode-Question/tree/master/0089-gray-code) |
 | [0371-sum-of-two-integers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/srijansil2006/LeetCode-Question/tree/master/0372-super-pow) |
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/srijansil2006/LeetCode-Question/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/0190-reverse-bits) |
+| [0372-super-pow](https://github.com/srijansil2006/LeetCode-Question/tree/master/0372-super-pow) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -306,4 +308,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0322-coin-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0518-coin-change-ii) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/srijansil2006/LeetCode-Question/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/srijansil2006/LeetCode-Question/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
