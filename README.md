@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/srijansil2006/LeetCode-Question/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/srijansil2006/LeetCode-Question/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/srijansil2006/LeetCode-Question/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Trie
 |  |
 | ------- |
@@ -316,4 +319,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/srijansil2006/LeetCode-Question/tree/master/0372-super-pow) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/srijansil2006/LeetCode-Question/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
