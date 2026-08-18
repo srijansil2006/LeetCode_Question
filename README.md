@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0890-lemonade-change) |
+| [0954-maximum-sum-circular-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1130-last-stone-weight-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/1130-last-stone-weight-ii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/0190-reverse-bits) |
 | [0372-super-pow](https://github.com/srijansil2006/LeetCode-Question/tree/master/0372-super-pow) |
+| [0954-maximum-sum-circular-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0954-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0518-coin-change-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0954-maximum-sum-circular-subarray) |
 | [1130-last-stone-weight-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/1130-last-stone-weight-ii) |
 ## Greedy
 |  |
@@ -323,4 +326,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/srijansil2006/LeetCode-Question/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
