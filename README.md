@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/srijansil2006/LeetCode-Question/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/srijansil2006/LeetCode-Question/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/srijansil2006/LeetCode-Question/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/srijansil2006/LeetCode-Question/tree/master/0372-super-pow) |
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/srijansil2006/LeetCode-Question/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/srijansil2006/LeetCode-Question/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/srijansil2006/LeetCode-Question/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/srijansil2006/LeetCode-Question/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/srijansil2006/LeetCode-Question/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/srijansil2006/LeetCode-Question/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/srijansil2006/LeetCode-Question/tree/master/0389-find-the-difference) |
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
