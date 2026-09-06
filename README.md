@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/srijansil2006/LeetCode-Question/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/srijansil2006/LeetCode-Question/tree/master/4256-construct-uniform-parity-array-i) |
+| [4284-smallest-stable-index-i](https://github.com/srijansil2006/LeetCode-Question/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/4285-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [4284-smallest-stable-index-i](https://github.com/srijansil2006/LeetCode-Question/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/4285-smallest-stable-index-ii) |
 ## Linked List
 |  |
