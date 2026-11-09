@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/srijansil2006/LeetCode-Question/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0890-lemonade-change) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/srijansil2006/LeetCode-Question/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1130-last-stone-weight-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/1130-last-stone-weight-ii) |
