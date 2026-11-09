@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1130-last-stone-weight-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/1130-last-stone-weight-ii) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1256-rank-transform-of-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/srijansil2006/LeetCode-Question/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1839-decode-xored-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1839-decode-xored-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
+| [1396-count-servers-that-communicate](https://github.com/srijansil2006/LeetCode-Question/tree/master/1396-count-servers-that-communicate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/srijansil2006/LeetCode-Question/tree/master/1396-count-servers-that-communicate) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/srijansil2006/LeetCode-Question/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/srijansil2006/LeetCode-Question/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0685-redundant-connection-ii) |
+| [1396-count-servers-that-communicate](https://github.com/srijansil2006/LeetCode-Question/tree/master/1396-count-servers-that-communicate) |
 | [2793-count-the-number-of-complete-components](https://github.com/srijansil2006/LeetCode-Question/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -268,12 +272,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/srijansil2006/LeetCode-Question/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0685-redundant-connection-ii) |
+| [1396-count-servers-that-communicate](https://github.com/srijansil2006/LeetCode-Question/tree/master/1396-count-servers-that-communicate) |
 | [2793-count-the-number-of-complete-components](https://github.com/srijansil2006/LeetCode-Question/tree/master/2793-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/srijansil2006/LeetCode-Question/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0685-redundant-connection-ii) |
+| [1396-count-servers-that-communicate](https://github.com/srijansil2006/LeetCode-Question/tree/master/1396-count-servers-that-communicate) |
 | [2793-count-the-number-of-complete-components](https://github.com/srijansil2006/LeetCode-Question/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
