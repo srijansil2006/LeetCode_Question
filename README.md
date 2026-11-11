@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/srijansil2006/LeetCode-Question/tree/master/2050-count-good-numbers) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/srijansil2006/LeetCode-Question/tree/master/4147-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/srijansil2006/LeetCode-Question/tree/master/4256-construct-uniform-parity-array-i) |
 ## Recursion
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/srijansil2006/LeetCode-Question/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/srijansil2006/LeetCode-Question/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/srijansil2006/LeetCode-Question/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Trie
 |  |
 | ------- |
