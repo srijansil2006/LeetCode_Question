@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/srijansil2006/LeetCode-Question/tree/master/0477-total-hamming-distance) |
 | [1013-fibonacci-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/1018-largest-perimeter-triangle) |
+| [1236-n-th-tribonacci-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/1236-n-th-tribonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/srijansil2006/LeetCode-Question/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/srijansil2006/LeetCode-Question/tree/master/2050-count-good-numbers) |
 | [4147-minimum-cost-to-acquire-required-items](https://github.com/srijansil2006/LeetCode-Question/tree/master/4147-minimum-cost-to-acquire-required-items) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/srijansil2006/LeetCode-Question/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1130-last-stone-weight-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/1130-last-stone-weight-ii) |
+| [1236-n-th-tribonacci-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/1236-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -370,4 +372,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
