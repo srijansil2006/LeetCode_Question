@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/srijansil2006/LeetCode-Question/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/srijansil2006/LeetCode-Question/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srijansil2006/LeetCode-Question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0322-coin-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0322-coin-change) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/srijansil2006/LeetCode-Question/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srijansil2006/LeetCode-Question/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/srijansil2006/LeetCode-Question/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/srijansil2006/LeetCode-Question/tree/master/0389-find-the-difference) |
 | [1145-number-of-submatrices-that-sum-to-target](https://github.com/srijansil2006/LeetCode-Question/tree/master/1145-number-of-submatrices-that-sum-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/srijansil2006/LeetCode-Question/tree/master/1256-rank-transform-of-an-array) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/srijansil2006/LeetCode-Question/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/srijansil2006/LeetCode-Question/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/srijansil2006/LeetCode-Question/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/srijansil2006/LeetCode-Question/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/srijansil2006/LeetCode-Question/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0091-decode-ways](https://github.com/srijansil2006/LeetCode-Question/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/srijansil2006/LeetCode-Question/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/srijansil2006/LeetCode-Question/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/srijansil2006/LeetCode-Question/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/srijansil2006/LeetCode-Question/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/srijansil2006/LeetCode-Question/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/srijansil2006/LeetCode-Question/tree/master/0416-partition-equal-subset-sum) |
@@ -266,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srijansil2006/LeetCode-Question/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/srijansil2006/LeetCode-Question/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -371,6 +376,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srijansil2006/LeetCode-Question/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/srijansil2006/LeetCode-Question/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/srijansil2006/LeetCode-Question/tree/master/1236-n-th-tribonacci-number) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/srijansil2006/LeetCode-Question/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
